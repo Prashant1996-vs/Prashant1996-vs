@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @Prashant1996-vs { PRASHANT VASHISHT }
-- 👀 I’m interested in CODING SECTION where if u want me to give marks to myself out of 10, then i'll give 7.
-- 🌱 I’m currently learning the CORE JAVA.
-- 💞️ I’m looking to collaborate on any PROJECT related to JAVA only, cause as it's my Learning Phase so I don't want to earn now.
-- 📫 You can reach to me by searching me on TWITTER @PRASHAN35994359
+- 🌱 FULL STACK in JAVA, JAVASCRIPT, REACT
