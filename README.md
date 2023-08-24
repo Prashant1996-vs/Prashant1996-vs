@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Prashant1996-vs { PRASHANT VASHISHT }
+- Hi, I’m PRASHANT VASHISHT
 - looking for an opportunity as i'm into frontend, backend & db development
